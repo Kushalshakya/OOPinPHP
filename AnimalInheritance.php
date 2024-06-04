@@ -1,3 +1,4 @@
+<!-- Create a base class Animal with a method makeSound that returns "Some sound". Create a derived class Dog that overrides the makeSound method to return "Bark". Instantiate the Dog class and call the makeSound method. -->
 <?php
     class Animal{
         public $sound;
